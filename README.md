@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -85,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
+## String
+|  |
+| ------- |
+| [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 <!---LeetCode Topics End-->
