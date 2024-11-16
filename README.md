@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
