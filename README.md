@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0493-reverse-pairs](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## String
 |  |
