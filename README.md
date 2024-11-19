@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 ## Sliding Window
 |  |
@@ -106,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
