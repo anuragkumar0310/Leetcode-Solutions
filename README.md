@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1755-defuse-the-bomb](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
