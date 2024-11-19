@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Greedy
