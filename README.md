@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
