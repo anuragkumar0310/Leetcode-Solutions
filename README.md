@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Tree
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search Tree
 |  |
 | ------- |
