@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2340-total-appeal-of-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Greedy
