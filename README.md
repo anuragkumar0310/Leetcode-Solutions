@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0174-dungeon-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+| [0090-subsets-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
