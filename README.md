@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
