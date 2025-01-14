@@ -1,19 +1,26 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-        const int length = A.size();
-        bitset<51> seenInFirst = 0, seenInSecond = 0;
-        vector<int> result(length, 0);
         
-        for(int index = 0; index < length; index++) {
-            int currentFirst = A[index];
-            int currentSecond = B[index];
+        int n = A.size();
+        vector<int> prefixcommonarray(n,-1);
+
+        for(int curridx = 0; curridx < n; curridx++){
+
+            int cmncnt = 0;
+
+            for(int aidx =0; aidx <= curridx; aidx++){
+               for (int bidx = 0; bidx <= curridx; bidx++){
+                if(A[aidx]==B[bidx]){
+                 cmncnt+=1;
+                 break;
+
+               }
             
-            seenInFirst[currentFirst] = 1;
-            seenInSecond[currentSecond] = 1;
-            result[index] = (seenInFirst & seenInSecond).count();
+            }
         }
-        
-        return result;
+      prefixcommonarray[curridx] = cmncnt;
+    } 
+    return  prefixcommonarray;
     }
 };
