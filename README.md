@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0952-word-subsets](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
