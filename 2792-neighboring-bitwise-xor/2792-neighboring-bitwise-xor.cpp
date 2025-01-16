@@ -7,11 +7,11 @@ public:
             return derived[0] == 0;
         }
         
-        int sum = 0;
-        for (int i = 0; i < n; i++) {
-            sum ^= derived[i];
+        int xorSum = 0;
+        for (int &nums : derived) {
+            xorSum ^= nums;
         }
         
-        return sum == 0;
+        return xorSum == 0;
     }
 };
