@@ -2,25 +2,28 @@ class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
         int n = derived.size();
-
         
-        for (int first = 0; first <= 1; first++) {
-            vector<int> original(n);
-
+        if (n == 1) {
+            return derived[0] == 0;  
+        }
+        
+        
+        for (int start : {0, 1}) {
+            bool valid = true;
+            int curr = start;
             
-            original[0] = first;
-
-            
-            for (int i = 1; i < n; i++) {
-                original[i] = derived[i - 1] ^ original[i - 1];
+           
+            for (int i = 0; i < n - 1; i++) {
+                
+                int next = curr ^ derived[i];
+                curr = next;
             }
-
             
-            if ((original[n - 1] ^ original[0]) == derived[n - 1]) {
-                return true; 
+       
+            if ((curr ^ start) == derived[n-1]) {
+                return true;
             }
         }
-
         
         return false;
     }
