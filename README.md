@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
