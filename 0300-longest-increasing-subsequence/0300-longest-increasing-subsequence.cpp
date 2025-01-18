@@ -1,20 +1,23 @@
 class Solution {
 public:
 
-    int findMaxLength(int currentIndex, int previousIndex, vector<int>& sequence, int size, vector<vector<int>>& memo) {
-        if(currentIndex == size) return 0;
-        if(memo[currentIndex][previousIndex+1] != -1) return memo[currentIndex][previousIndex+1];    
-        int maxLength = 0 + findMaxLength(currentIndex+1, previousIndex, sequence, size, memo);
+    int f(int i, int j, vector<int>& seq, int n, vector<vector<int>>& dp) {
 
-        if(previousIndex == -1 || sequence[currentIndex] > sequence[previousIndex]) {
-            maxLength = max(maxLength, 1 + findMaxLength(currentIndex+1, currentIndex, sequence, size, memo));
+        if(i == n) 
+        return 0;
+        
+        if(dp[i][j+1] != -1) return dp[i][j+1];    
+        int len = 0 + f(i+1, j, seq, n, dp);
+
+        if(j == -1 || seq[i] > seq[j]) {
+            len = max(len, 1 + f(i+1, i, seq, n, dp));
         }
-        return memo[currentIndex][previousIndex+1] = maxLength;
+        return dp[i][j+1] = len;
     }
 
     int lengthOfLIS(vector<int>& nums) {
-        int size = nums.size();
-        vector<vector<int>> memo(size, vector<int>(size+1, -1));
-        return findMaxLength(0, -1, nums, size, memo);
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n+1, -1));
+        return f(0, -1, nums, n, dp);
     }
 };
