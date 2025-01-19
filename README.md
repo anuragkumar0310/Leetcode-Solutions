@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0474-ones-and-zeroes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0546-remove-boxes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0546-remove-boxes) |
 | [0787-sliding-puzzle](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0474-ones-and-zeroes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0546-remove-boxes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0952-word-subsets](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
