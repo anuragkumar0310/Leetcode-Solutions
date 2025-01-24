@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0686-repeated-string-match](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0952-word-subsets](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -442,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
