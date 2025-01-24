@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
