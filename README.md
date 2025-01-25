@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [2509-minimize-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
