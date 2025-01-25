@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2685-first-completely-painted-row-or-column](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
 | ------- |
