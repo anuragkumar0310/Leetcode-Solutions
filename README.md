@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2509-minimize-xor](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
