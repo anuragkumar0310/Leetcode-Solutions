@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anuragpy07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
