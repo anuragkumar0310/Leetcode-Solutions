@@ -1,24 +1,23 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        int pk = 0;
-        
+        int n = nums.size();
 
-        for (int i = 0; i < nums.size() - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
-                pk = i + 1; 
-                break;
+        vector<int> sorted = nums;
+        sort(begin(sorted), end(sorted));
+
+        for (int r = 0; r < n; r++) {
+            bool isSorted = true;
+            for (int i = 0; i < n; i++) {
+                if (sorted[i] != nums[(i + r) % n]) {
+                    isSorted = false;
+                    break;
+                }
+            }
+            if (isSorted) {
+                return true;
             }
         }
-        
-        
-        for (int i = pk; i < nums.size() + pk - 1; i++) {
-           
-            if (nums[i % nums.size()] > nums[(i + 1) % nums.size()]) {
-                return 0; 
-            }
-        }
-        
-        return 1; 
+        return false;
     }
 };
