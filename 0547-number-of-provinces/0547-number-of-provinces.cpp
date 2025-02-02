@@ -15,6 +15,7 @@ public:
     int findCircleNum(vector<vector<int>>& isConnected) {
          int n = isConnected.size();
          
+         // make graph
          unordered_map<int, vector<int>> adj;
          
 
